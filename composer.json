@@ -1,5 +1,5 @@
 {
-  "name": "dongkaipo/aliyun-php-sdk-sts",
+  "name": "liyifei/aliyun-php-sdk-sts",
   "description": "Aliyun php sdk sts composer support",
   "type": "library",
   "license": "MIT",
@@ -13,7 +13,7 @@
   "require": {
     "php": ">=7.0",
     "ext-openssl": "*",
-    "dongkaipo/aliyun-php-sdk-core": "dev-master"
+    "liyifei/aliyun-dysms-php-sdk": "~1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.4@dev"
